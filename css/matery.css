@@ -702,8 +702,8 @@ header .go-back i {
 .dream .title,
 .music-player .title,
 .video-player .title {
-    margin-bottom: 20px;
-    font-size: 2rem;
+    margin-bottom: 30px;
+    font-size: 3rem;
     font-weight: 700;
 }
 
@@ -714,13 +714,13 @@ header .go-back i {
 
 .music-player,
 .video-player {
-    margin-top: 10px;
-    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 250px;
 }
 
 .music,
 .dplayer-video {
-    box-shadow: 0 5px 20px 0 rgba(0, 0, 0, .2), 0 10px 20px -12px rgba(0, 0, 0, .5) !important;
+    box-shadow: 0 5px 20px 0 rgba(0, 0, 0, .2), 0 30px 20px -12px rgba(11, 35, 61, 0.808) !important;
 }
 
 #recommend-sections {
